@@ -1,11 +1,15 @@
-# Olá!
+# Hi!
 
-**Bem-vindo(a)** ao meu Read.md.
-Muito prazer, me chamo Gabriel, tenho 17 anos e sou aluno dos cursos de **"Técnico em Desenvolvimento de Sistemas"** no Senai e do ensino médio técnico de **"Técnico em IOT"** no **Senac**.
-Além Disso, sou **"Programador de games"** na **Unity** e **Gamemaker** formado no curso técnico **"Programador de jogos digitais"** no **Senac**.
+**Welcome** to my README.
 
+Nice to meet you! My name is Gabriel, I'm 17 years old, and I'm currently studying **Systems Development Technician** at **SENAI Vila Leopoldina** and pursuing a **Technical High School Diploma in IoT** at **SENAC Lapa Tito**.
 
--  🌱 Procuro pela minha primeira oportunidade no Mercado de Trabalho.
--  ❤️ Gosto de ambientes colaborativos que incentivem o desenvolvimento pessoal e profissional;
--  😄 Tenho habilidades sólidas em Comunicação, Designer Gráfico e Desenvolvimento Web;
-- 💬 Fique à vontade no meu repositório, deixe sua contribuição e feedback! 
+In addition, I am a **Game Developer** specializing in **Unity** and **GameMaker**, having completed the **Digital Game Programming Technician** course at **SENAC Lapa Tito**.
+
+-   🌱 I am looking for my first opportunity in the job market.
+    
+-   ❤️ I enjoy collaborative environments that encourage personal and professional growth.
+    
+-   😄 I have strong skills in Communication, Graphic Design, and Web Development.
+    
+-   💬 Feel free to explore my repository, contribute, and leave your feedback!
