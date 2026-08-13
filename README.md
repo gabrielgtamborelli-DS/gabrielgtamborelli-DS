@@ -18,5 +18,5 @@ In addition, I am a  **Game Developer**  specializing in  **Unity**  and  **Game
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gtamborelli1406/)
-
+[![Itch.io](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://gandalf29.itch.io)
 **Gmail:** ggandolfotamborelli@gmail.com
